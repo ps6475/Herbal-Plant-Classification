@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+pillow
+json5
+keras
+matplotlib
+scikit-learn
+opencv-python
+gunicorn
